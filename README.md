@@ -50,7 +50,7 @@ The dataset used in this project includes Amazon sales records with the followin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/amazon-sales-analysis.git
+   git clone https://github.com/kshitismita/amazon-sales-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
